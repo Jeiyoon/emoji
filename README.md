@@ -12,8 +12,8 @@ We achieve 72.9 F1 score (micro) despite its class imbalance problem which makes
 
 The demo link will be available soon
 
-![model_overview](./imgs/11.png./emoji.png)
-![model_overview](./imgs/22.png./emoji.png)
-![model_overview](./imgs/44.png./emoji.png)
-![model_overview](./imgs/55.png./emoji.png)
+![result1](./imgs/11.PNG)
+![result2](./imgs/22.PNG)
+![result4](./imgs/44.PNG)
+![result5](./imgs/55.PNG)
 
