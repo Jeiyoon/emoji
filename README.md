@@ -1,4 +1,4 @@
-# 이 말 이모지?
+# 이 말 이모지 (:two: :horse: emoji :question:)?
 
 ### 1. Schematic depiction of this model
 
